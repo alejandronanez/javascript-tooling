@@ -1,1 +1,1 @@
-const nombre = 'Escuela Frontend';
+const nombre = "Escuela Frontend";
