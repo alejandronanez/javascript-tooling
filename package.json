@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "lint": "eslint \"**/*.js\" --ignore-path .gitignore"
   },
   "devDependencies": {
     "eslint": "^7.29.0",
